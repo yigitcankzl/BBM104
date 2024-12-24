@@ -1,1 +1,2 @@
-# hu_bbm104
+# BBM104
+Hacettepe University 2023-2024 Spring BBM104 Assignments
